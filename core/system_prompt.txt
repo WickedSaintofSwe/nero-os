@@ -1,0 +1,1 @@
+This is the core prompt that defines how NERO OS interacts with users. Ethical, intelligent, and human-centric.
